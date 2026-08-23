@@ -53,14 +53,14 @@ Sou **José Nathan**, desenvolvedor de software e analista de privacidade, gradu
       <h3>🌾 <a href="https://github.com/jsnatthan/AgroMetria">AgroMetria</a></h3>
       <p>Gestão agrícola orientada por dados, reunindo tecnologia, organização e visão de produto.</p>
       <a href="https://github.com/jsnatthan/AgroMetria">
-        <img src="https://img.shields.io/github/last-commit/jsnatthan/AgroMetria?style=flat-square&label=última%20atualização&labelColor=090512&color=A855F7" alt="Última atualização do AgroMetria" />
+        <img src="https://img.shields.io/github/last-commit/jsnatthan/AgroMetria?style=flat-square&label=ultima%20atualizacao&labelColor=090512&color=A855F7" alt="Última atualização do AgroMetria" />
       </a>
     </td>
     <td width="50%" valign="top">
       <h3>📡 <a href="https://github.com/jsnatthan/radar-tech">Radar Tech</a></h3>
       <p>Plataforma de oportunidades em tecnologia com perfis, candidaturas, auditoria e integrações.</p>
       <a href="https://github.com/jsnatthan/radar-tech">
-        <img src="https://img.shields.io/github/last-commit/jsnatthan/radar-tech?style=flat-square&label=última%20atualização&labelColor=090512&color=D97706" alt="Última atualização do Radar Tech" />
+        <img src="https://img.shields.io/github/last-commit/jsnatthan/radar-tech?style=flat-square&label=ultima%20atualizacao&labelColor=090512&color=D97706" alt="Última atualização do Radar Tech" />
       </a>
     </td>
   </tr>
