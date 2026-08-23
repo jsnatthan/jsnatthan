@@ -1,20 +1,20 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:0E7490,100:14B8A6&height=210&section=header&text=Jos%C3%A9%20Nathan&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20Privacy%20Analyst&descAlignY=58&animation=fadeIn" alt="Cabeçalho José Nathan" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090512,35:2E1065,70:7E22CE,100:D97706&height=220&section=header&text=Jos%C3%A9%20Nathan&fontSize=54&fontColor=F5F3FF&fontAlignY=36&desc=Developer%20by%20day%20%E2%80%A2%20Gamer%20by%20night&descAlignY=58&descSize=20&animation=fadeIn" alt="Cabeçalho José Nathan em roxo escuro e cobre" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=900&color=0EA5A4&center=true&vCenter=true&width=850&lines=Transformando+problemas+reais+em+produtos+digitais;Java+%2B+Spring+Boot+%2B+React;APIs%2C+Cloud%2C+Dados+e+Experi%C3%AAncias+Web;Tecnologia+com+prop%C3%B3sito+e+qualidade" alt="Apresentação animada" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=900&color=A855F7&center=true&vCenter=true&width=850&lines=Transformando+ideias+em+experi%C3%AAncias+digitais;Java+%2B+Spring+Boot+%2B+React;C%C3%B3digo%2C+Cloud%2C+Dados+e+Criatividade;Build.+Play.+Evolve." alt="Apresentação animada" />
   </a>
 
   <br />
 
   <a href="https://github.com/jsnatthan?tab=followers">
-    <img src="https://img.shields.io/github/followers/jsnatthan?style=for-the-badge&logo=github&label=Seguidores&color=0A66C2" alt="Seguidores" />
+    <img src="https://img.shields.io/github/followers/jsnatthan?style=for-the-badge&logo=github&label=Seguidores&labelColor=090512&color=7E22CE" alt="Seguidores" />
   </a>
   <a href="https://komarev.com/ghpvc/?username=jsnatthan">
-    <img src="https://komarev.com/ghpvc/?username=jsnatthan&style=for-the-badge&color=14B8A6&label=VISITAS" alt="Visitas ao perfil" />
+    <img src="https://komarev.com/ghpvc/?username=jsnatthan&style=for-the-badge&color=7E22CE&label=VISITAS" alt="Visitas ao perfil" />
   </a>
   <a href="https://www.linkedin.com/in/js-nathan/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-7E22CE?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=090512" alt="LinkedIn" />
   </a>
 </div>
 
@@ -32,7 +32,7 @@ Sou **José Nathan**, desenvolvedor de software e analista de privacidade, gradu
 ## 🧰 Tecnologias e ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,spring,postgres,postman,docker,aws,react,nodejs,javascript&perline=10" alt="Java, Python, Spring, SQL, Postman, Docker, AWS, React, Node.js e JavaScript" />
+  <img src="https://skillicons.dev/icons?i=java,python,spring,postgres,postman,docker,aws,react,nodejs,javascript&perline=10&theme=dark" alt="Java, Python, Spring, SQL, Postman, Docker, AWS, React, Node.js e JavaScript" />
 </div>
 
 <br />
@@ -47,14 +47,24 @@ Sou **José Nathan**, desenvolvedor de software e analista de privacidade, gradu
 
 ## 🌟 Projetos em destaque
 
-<div align="center">
-  <a href="https://github.com/jsnatthan/AgroMetria">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=jsnatthan&repo=AgroMetria&theme=transparent&hide_border=true&title_color=0A66C2&icon_color=14B8A6&text_color=64748B" alt="AgroMetria" />
-  </a>
-  <a href="https://github.com/jsnatthan/radar-tech">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=jsnatthan&repo=radar-tech&theme=transparent&hide_border=true&title_color=0A66C2&icon_color=14B8A6&text_color=64748B" alt="Radar Tech" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌾 <a href="https://github.com/jsnatthan/AgroMetria">AgroMetria</a></h3>
+      <p>Gestão agrícola orientada por dados, reunindo tecnologia, organização e visão de produto.</p>
+      <a href="https://github.com/jsnatthan/AgroMetria">
+        <img src="https://img.shields.io/github/last-commit/jsnatthan/AgroMetria?style=flat-square&label=última%20atualização&labelColor=090512&color=A855F7" alt="Última atualização do AgroMetria" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📡 <a href="https://github.com/jsnatthan/radar-tech">Radar Tech</a></h3>
+      <p>Plataforma de oportunidades em tecnologia com perfis, candidaturas, auditoria e integrações.</p>
+      <a href="https://github.com/jsnatthan/radar-tech">
+        <img src="https://img.shields.io/github/last-commit/jsnatthan/radar-tech?style=flat-square&label=última%20atualização&labelColor=090512&color=D97706" alt="Última atualização do Radar Tech" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <details>
   <summary><strong>🌾 AgroMetria — gestão agrícola orientada por dados</strong></summary>
@@ -75,12 +85,16 @@ Sou **José Nathan**, desenvolvedor de software e analista de privacidade, gradu
 ## 📊 GitHub em movimento
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=jsnatthan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=0A66C2&icon_color=14B8A6&text_color=64748B&ring_color=14B8A6" alt="Estatísticas do GitHub" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsnatthan&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=0A66C2&text_color=64748B" alt="Linguagens mais usadas" />
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jsnatthan&theme=2077" alt="Resumo de atividades do GitHub" />
 </div>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jsnatthan&bg_color=00000000&color=0A66C2&line=14B8A6&point=0E7490&area=true&area_color=14B8A6&hide_border=true" alt="Gráfico de atividades" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jsnatthan&theme=2077" alt="Estatísticas do perfil" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jsnatthan&theme=2077" alt="Repositórios por linguagem" />
+</div>
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jsnatthan&bg_color=090512&color=C4B5FD&line=A855F7&point=F59E0B&area=true&area_color=6D28D9&hide_border=true" alt="Gráfico de atividades em roxo escuro" />
 </div>
 
 ## 🐍 Contribuições
@@ -99,14 +113,14 @@ Sou **José Nathan**, desenvolvedor de software e analista de privacidade, gradu
   <p>Estou sempre aberto a conexões, projetos desafiadores e oportunidades para criar tecnologia com impacto.</p>
 
   <a href="https://www.linkedin.com/in/js-nathan/">
-    <img src="https://img.shields.io/badge/LinkedIn-Fale%20comigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Fale%20comigo-7E22CE?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=090512" alt="LinkedIn" />
   </a>
   <a href="mailto:josenathan900@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Enviar%20mensagem-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-Enviar%20mensagem-D97706?style=for-the-badge&logo=gmail&logoColor=white&labelColor=090512" alt="Gmail" />
   </a>
   <a href="https://github.com/jsnatthan">
-    <img src="https://img.shields.io/badge/GitHub-Acompanhar-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Acompanhar-7E22CE?style=for-the-badge&logo=github&logoColor=white&labelColor=090512" alt="GitHub" />
   </a>
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,50:0E7490,100:0A66C2&height=120&section=footer" alt="Rodapé" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D97706,35:7E22CE,70:2E1065,100:090512&height=120&section=footer" alt="Rodapé roxo escuro e cobre" />
 </div>
